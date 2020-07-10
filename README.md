@@ -1,4 +1,4 @@
-![logo](icon.png)
+![logo](https://github.com/JoseVarelaP/JoseVarelaP/blob/master/icon.png?raw=true)
 
 A (mainly) lua scripter, C/C++ programmer that also does music, video and models from time to time.
 

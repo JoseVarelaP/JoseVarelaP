@@ -1,4 +1,4 @@
-![logo](icon.png)
+![logo](uh.png)
 
 A (mainly) lua scripter, C/C++ programmer that also does music, video and models from time to time.
 

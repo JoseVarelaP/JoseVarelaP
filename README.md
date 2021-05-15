@@ -12,3 +12,4 @@ A (mainly) lua scripter, C/C++ programmer that also does music, video and models
 
 📼 https://youtube.com/JoseVarela
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W44N2UY)

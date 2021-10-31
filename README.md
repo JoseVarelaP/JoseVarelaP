@@ -4,7 +4,7 @@
 
 A (mainly) lua scripter, JS/C/C++ programmer that also does music, video and models from time to time.
 
-![](https://josevarela.xyz/SMArchive/Builds/VersionIcon/OUTFOX.png) [Currently a MacOS developer / Theme Scripter for Project Moondance](https://projectmoon.dance).
+![](https://josevarela.xyz/SMArchive/Builds/VersionIcon/OUTFOXv2.png) [Currently a MacOS developer / Theme Scripter for Project Outfox](https://projectoutfox.com).
 
 🌎 https://josevarela.xyz
 

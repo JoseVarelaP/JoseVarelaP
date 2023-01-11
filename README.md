@@ -6,7 +6,7 @@ A (mainly) lua scripter, JS/C/C++ programmer that also does music, video and mod
 
 ![](https://josevarela.xyz/SMArchive/Builds/VersionIcon/OUTFOXv2.png) [Currently a MacOS developer / Theme Scripter for Project Outfox](https://projectoutfox.com).
 
-🌎 https://josevarela.xyz
+🌎 https://josevarela.net
 
 🎶 https://zenth.bandcamp.com
 

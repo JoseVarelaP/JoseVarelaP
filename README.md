@@ -1,6 +1,6 @@
 
 
-<img src="https://josevarela.net/img/1500x500.jpg"/>
+<img src="https://josevarela.net/img/1500x500.png"/>
 
 A (mainly) Lua scripter, JS/C/C++ programmer that also does music, video and models from time to time.
 
